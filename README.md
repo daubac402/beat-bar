@@ -1,3 +1,5 @@
+![BeatBar menu bar strip and player panel](docs/screenshot-menu-bar-and-player.png)
+
 # BeatBar
 
 BeatBar is a lightweight **macOS menu bar** “now playing” HUD for **macOS 15 (Sequoia) and newer**.
@@ -5,8 +7,6 @@ BeatBar is a lightweight **macOS menu bar** “now playing” HUD for **macOS 15
 - **Menu bar strip**: album art, `Title - Artist`, and playback progress (similar spirit to Apple’s menu bar media control, with richer metadata).
 - **Click the strip**: opens a larger **player panel** with artwork, metadata, transport, and volume (system output scalar when available).
 - **Right-click the strip**: **Settings** (launch at login, menu bar title width / marquee) and **Quit**.
-
-![BeatBar menu bar strip and player panel](docs/screenshot-menu-bar-and-player.png)
 
 *Menu bar: album art, title — artist, progress. Popover: full artwork, metadata, transport, and scrubber.*
 
